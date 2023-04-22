@@ -5,4 +5,5 @@
 ![AmazonAws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<p>Welcome to my portfolio repository built with NextJS 13, a popular React-based framework for building fast and dynamic web applications. This portfolio showcases my skills, projects, and experience as a web developer, and includes responsive design, smooth page transitions, and optimized performance thanks to NextJS's built-in features such as Server-Side Rendering, Incremental Static Regeneration, and Image Optimization. Feel free to browse the code, clone the repository, and customize it to fit your own needs. Happy coding!</p>
+<h1>WELCOME!</h1>
+<p>My portfolio is built with NextJS 13, a popular React-based framework for building fast and dynamic web applications. This portfolio showcases my skills, projects, and experience as a web developer, and includes responsive design, smooth page transitions, and optimized performance thanks to NextJS's built-in features such as Server-Side Rendering, Incremental Static Regeneration, and Image Optimization. Feel free to browse the code, clone the repository, and customize it to fit your own needs. Happy coding!</p>
